@@ -1,0 +1,6 @@
+=== RUN   TestConcurrent3
+Test: concurrent configuration change and restart...
+  ... Passed
+    config.go:79: test took longer than 120 seconds
+--- FAIL: TestConcurrent3 (141.18s)
+FAIL
